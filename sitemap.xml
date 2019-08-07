@@ -3,18 +3,29 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://blog.thomasruiz.fr/posts/2019-08/going-live/</loc>
+    <lastmod>2019-08-06T18:46:55+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://blog.thomasruiz.fr/posts/</loc>
+    <lastmod>2019-08-06T18:46:55+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://blog.thomasruiz.fr/</loc>
+    <lastmod>2019-08-06T18:46:55+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://blog.thomasruiz.fr/pages/about-me/</loc>
     <lastmod>2019-08-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>https://blog.thomasruiz.fr/pages/</loc>
-    <lastmod>2019-08-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://blog.thomasruiz.fr/</loc>
     <lastmod>2019-08-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
